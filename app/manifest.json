@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "author": "Nigar Özlük",
+    "name": "Movie Finder",
+    "version": "1.0.0",
+    "description": "Find Movies",
+    "browser_action": {
+        "default_icon": {
+            "16": "img/1.png",
+            "24": "img/2.png",
+            "32": "img/3.png"
+        },
+        "default_popup": "main.html",
+        "default_title": "Movie Finder"
+        
+    }
+
+}
+
